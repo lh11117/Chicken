@@ -3,7 +3,7 @@
 
 下载安装程序：https://pan.baidu.com/s/1Ob9uwttU3Etp0sRwkW55rQ?pwd=1145   提取码：1145
 
-备用：https://lh11117.github.io/Chicken_inst.zip
+备用安装程序下载：https://lh11117.github.io/Chicken_inst.zip
 
 
 
